@@ -1,0 +1,59 @@
+.drumclass {
+  height: 40px;
+  width: 40px;
+}
+
+h1 {
+  display: inline-block;
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 5em;
+}
+
+body {
+  background-color: red;
+  text-align: center;
+}
+
+button {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border: double;
+  color: grey;
+  font-family: cursive;
+  font-size: 4em;
+}
+
+
+footer{
+margin-top: 90% auto;
+
+}
+.w {
+  background-image: url("images/crash.png");
+}
+
+.a {
+  background-image: url("images/kick.png");
+}
+
+.s {
+  background-image: url("images/snare.png");
+}
+
+.d {
+  background-image: url("images/tom1.png");
+}
+
+.j {
+  background-image: url("images/tom2.png");
+}
+
+.k {
+  background-image: url("images/tom3.png");
+}
+
+.l {
+  background-image: url("images/tom4.png");
+}
